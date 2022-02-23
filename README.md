@@ -1,28 +1,22 @@
-<a href="https://github.com/3F">
-  <img src="/generated/statistics/overview.svg" width="450" height="60" />
+<a href="http://3-F.in">
+  <img src="/generated/statistics/overview.svg" width="430" height="54" />
 </a>
-
 <table>
   <tr>
-    <td>
-        <a href="https://twitter.com/github3F" title="twitter @github3F">
+    <td>&nbsp;
+        <a href="https://twitter.com/github3F" title="@github3F">
           <img src="/resources/icons/t_36px.png" width="36" height="36" />
-          <br/>
-          @github3F
         </a>
-        <br/><br/>
-        <a href="https://ko-fi.com/github3f/posts" title="++posts 📑">📰</a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://www.youtube.com/reg3F" title="YouTube /reg3F">
+        <br/><br/>&nbsp;&nbsp;
+        <a href="https://www.youtube.com/reg3F" title="/reg3F">
           <img src="/resources/icons/y_21px.png" width="21" height="15" />
         </a>
-        <br/><br/>
-        &nbsp;
-        <a href="https://www.reddit.com/r/x3F/" title="reddit /r/x3F">
+        <br/><br/>&nbsp;&nbsp;
+        <a href="https://www.reddit.com/r/x3F/" title="/r/x3F">
           <img src="/resources/icons/r_19px.png" width="19" height="19" />
         </a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://3F.github.io/Donation/" title="Free Software and lot of other amazing things 🧬">☕</a>
+        <br/><br/>&nbsp;&nbsp;
+        <a href="https://3F.github.io/Donation/" title="Hello World 🧬">☕</a>
     </td>
     <td>
       <a href="https://twitter.com/github3F">
@@ -42,4 +36,4 @@
 [![](/generated/repositories/UnmanagedEmitCalli.svg)](https://github.com/3F/UnmanagedEmitCalli)|[![](/generated/repositories/aml_s905_uboot.svg)](https://github.com/3F/aml_s905_uboot)
 [![](/generated/repositories/Huid.svg)](https://github.com/3F/Huid)|[`More ... ` :octocat:](https://github.com/3F?tab=repositories)
 
-\**update every [hour](https://github.com/3F/3F/actions)*
+\**update every [hour](https://github.com/3F/3F/actions/workflows/gh3Fs.action.js.yml)*
