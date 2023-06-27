@@ -50,7 +50,7 @@ jobs:
           path: ./
           
       - name: Update using node cli
-        run: node ./dist/index.js token:${{ secrets.GH_S_PK }} path:${{ github.event.inputs.path || 'generated/' }} pinned:${{ github.event.inputs.pinned || 'Conari,LX4Cnh,regXwild,MvsSln,Jt,IeXod,vsSolutionBuildEvent,sandbox,UnmanagedEmitCalli,aml_s905_uboot,GetNuTool,Fnv1a128,LuNari,hMSBuild,Huid' }} clean:${{ github.event.inputs.clean || '500' }} label:${{ github.event.inputs.label || 'github/3F' }} debug:${{ github.event.inputs.debug || 'true' }}
+        run: node ./dist/index.js token:${{ secrets.GH_S_PK }} path:${{ github.event.inputs.path || 'generated/' }} pinned:${{ github.event.inputs.pinned || 'Conari,LX4Cnh,regXwild,MvsSln,Jt,IeXod,vsSolutionBuildEvent,sandbox,UnmanagedEmitCalli,aml_s905_uboot,GetNuTool,Fnv1a128,LuNari,hMSBuild,Huid,vsCommandEvent,coreclr,DllExport,E-MSBuild,TmVTweaks,MoConTool,Examples,netfx4sdk' }} clean:${{ github.event.inputs.clean || '300' }} label:${{ github.event.inputs.label || 'github/3F' }} debug:${{ github.event.inputs.debug || 'true' }}
         
         
       ## FIXME: 
